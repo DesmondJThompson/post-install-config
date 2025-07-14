@@ -226,7 +226,8 @@ Open the test ticket
 Add a Response or Internal Note
 
 Click Post Reply
-<img width="935" height="842" alt="Screenshot 2025-07-14 at 3 06 28 PM" src="https://github.com/user-attachments/assets/e7ef7ae3-63ef-4915-a2c2-f97f5dfdc6f1" />
+<img width="935" height="839" alt="Screenshot 2025-07-10 at 7 27 19 PM" src="https://github.com/user-attachments/assets/b5d762ac-d2df-447f-aa44-03583146f3dd" />
+
 
 Step 11: Configure SLA Plans 
 
