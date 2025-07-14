@@ -41,7 +41,7 @@ This is the public-facing portal where users can submit and check the status of 
 
 Step 1: Set Up System Settings
 
-Defines global help desk info, default email, and timezone.
+(Defines global help desk info, default email, and timezone)
 
 Go to: Admin Panel → Settings → System
 
@@ -56,7 +56,8 @@ Configure:
 Click Save Changes
 
 Step 2: Configure Email Addresses
-What it does: Sets up the addresses used to send/receive tickets and notifications.
+
+(Sets up the addresses used to send/receive tickets and notifications)
 
 Go to: Admin Panel → Emails
 
@@ -73,7 +74,8 @@ Assign it as the default system email if needed
 <img width="939" height="844" alt="Screenshot 2025-07-10 at 7 04 14 PM" src="https://github.com/user-attachments/assets/667aa490-8946-4f95-aaf2-5f7c792451a7" />
 
 Step 3: Create Departments
-Groups tickets and agents by area of responsibility.
+
+(Groups tickets and agents by area of responsibility)
 
 Go to: Admin Panel → Agents → Departments
 
@@ -92,7 +94,8 @@ Save changes
 <img width="931" height="845" alt="Screenshot 2025-07-10 at 7 07 20 PM" src="https://github.com/user-attachments/assets/0e8bfe9a-2c73-443d-bcf2-b6f17fa482d5" />
 
 Step 4: Define Roles (Permissions)
-What it does: Controls what agents can do based on their assigned level.
+
+(Controls what agents can do based on their assigned level)
 
 Go to: Admin Panel → Agents → Roles
 
